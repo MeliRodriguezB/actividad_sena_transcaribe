@@ -6,7 +6,7 @@ Este módulo contiene los menús, entradas del usuario y presentación de compro
 """
 
 import os
-import logica
+import transcaribe.logica as logica
 
 
 class C:
